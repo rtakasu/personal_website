@@ -10,6 +10,8 @@ Before Starting:
 
 To start: 
 1. Clone repo
+2. Change git remote URL
+$git remote set-url origin git://new.url.here
 2. Create venv in root folder
 	in root folder: $ python3 venv ./venv
 3. Activate venv:
