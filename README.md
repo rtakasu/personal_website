@@ -23,8 +23,6 @@ $ flask db migrate
 $ flask db upgrade
 6. Run development server 
 
-To Create a Database:
-
 To Activate/Deactivate venv:
 Activate: 
 $ source ./bin/activate
